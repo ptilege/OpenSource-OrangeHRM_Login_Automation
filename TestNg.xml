@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Login Suite">
+
+    <test name="BothCorrect">
+        <classes>
+            <class name="LoginTestCases.LoginTests"/>
+        </classes>
+    </test>
+</suite>
